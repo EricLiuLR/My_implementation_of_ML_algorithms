@@ -11,5 +11,6 @@ This repo contaions of my implementations of several machine learning algorithms
 - Decision Tree
 - Gradient Boost
 - AdaBoost
+- Neural Network
 
 For every algorithms mentioned above, my implementation managed to match the estimators in scikit-learn package on some toy datasets.
